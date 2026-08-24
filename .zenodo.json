@@ -1,0 +1,14 @@
+{
+  "title": "PX459-v2 gRNA Cloning Under Resource Constraints",
+  "description": "Retrospective documentation and evidence audit of a resource-constrained adaptation of a PX459-v2 gRNA cloning workflow. The project supports feasibility under reported laboratory constraints and does not claim protocol superiority.",
+  "creators": [
+    {
+      "name": "Rojhannezhad, Mahdieh",
+      "orcid": "0009-0009-2427-718X"
+    }
+  ],
+  "keywords": ["CRISPR/Cas9", "PX459-v2", "gRNA cloning", "molecular cloning", "protocol optimization"],
+  "license": "MIT",
+  "upload_type": "software",
+  "version": "1.0.0"
+}
