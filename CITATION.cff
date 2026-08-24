@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "PX459-v2 gRNA Cloning Under Resource Constraints"
+authors:
+  - family-names: Rojhannezhad
+    given-names: Mahdieh
+    orcid: "https://orcid.org/0009-0009-2427-718X"
+version: "1.0.0"
+date-released: "2026-08-24"
+repository-code: "https://github.com/RojhanGenomics/px459-v2-resource-constrained-cloning"
+license: "MIT"
+abstract: "Retrospective documentation and evidence audit of a resource-constrained adaptation of a PX459-v2 gRNA cloning workflow. The project supports feasibility under reported laboratory constraints and does not claim protocol superiority."
+keywords:
+  - CRISPR/Cas9
+  - PX459-v2
+  - gRNA cloning
+  - molecular cloning
+  - protocol optimization
+  - resource-constrained research
