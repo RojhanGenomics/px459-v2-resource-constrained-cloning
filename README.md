@@ -4,6 +4,19 @@
 
 A retrospective research project documenting a resource-constrained adaptation of a PX459-v2 gRNA cloning workflow.
 
+## Researcher
+
+**Mahdieh Rojhannezhad, Ph.D.** is a genetics researcher working at the interface of **functional and regulatory genomics, cancer genomics, CRISPR/Cas9 genome editing, molecular diagnostics, and computational genomics**.
+
+Her doctoral research investigated a HER2-associated regulatory enhancer in breast cancer using CRISPR/Cas9, combining experimental molecular genetics with bioinformatic interpretation. Her wider research background includes clinical molecular/cytogenetic diagnostics, protocol optimization, NGS workflow development, and reproducible computational research.
+
+See the complete project-linked [researcher profile](RESEARCHER_PROFILE.md).
+
+- ORCID: https://orcid.org/0009-0009-2427-718X
+- GitHub: https://github.com/RojhanGenomics
+- Website: https://rojhangalaxy.ir
+- LinkedIn: https://linkedin.com/in/mahdieh-rojhannezhad
+
 ## Citation
 
 If you use this project, please cite the archived Zenodo record:
@@ -28,14 +41,11 @@ Exact undocumented parameters are intentionally not reconstructed.
 - `report/FINAL_PROJECT_REPORT.md` — final scientific report
 - `portfolio/CASE_STUDY.md` — portfolio-oriented case study
 - `evidence/EVIDENCE_AUDIT.md` — evidence and claim audit
+- `RESEARCHER_PROFILE.md` — project-linked researcher identity and research context
+- `PUBLICATION_READINESS_AUDIT.md` — final publication/research-artifact readiness audit
 - `CITATION.cff` — citation metadata
 - `.zenodo.json` — Zenodo metadata
 - `LICENSE` — repository license
 
 ## Claim boundary
 The defensible conclusion is that the adapted workflow was experimentally successful under the reported constraints. This project does not claim that the modified workflow was better than the standard workflow.
-
-## Author
-**Mahdieh Rojhannezhad, Ph.D.**  
-ORCID: https://orcid.org/0009-0009-2427-718X  
-GitHub: https://github.com/RojhanGenomics
