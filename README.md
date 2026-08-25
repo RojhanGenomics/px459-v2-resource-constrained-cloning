@@ -1,6 +1,16 @@
 # PX459-v2 gRNA Cloning Under Resource Constraints
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22086082.svg)](https://doi.org/10.5281/zenodo.22086082)
+
 A retrospective research project documenting a resource-constrained adaptation of a PX459-v2 gRNA cloning workflow.
+
+## Citation
+
+If you use this project, please cite the archived Zenodo record:
+
+**Rojhannezhad, Mahdieh. (2026). _PX459-v2 gRNA Cloning Under Resource Constraints_ (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.22086082**
+
+The repository also includes `CITATION.cff` for GitHub's citation support.
 
 ## Scientific scope
 The project reconstructs the documented standard workflow and evaluates a researcher-reported modified workflow used under laboratory reagent/material constraints.
