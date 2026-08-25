@@ -10,5 +10,7 @@
   "keywords": ["CRISPR/Cas9", "PX459-v2", "gRNA cloning", "molecular cloning", "protocol optimization"],
   "license": "MIT",
   "upload_type": "software",
-  "version": "1.0.0"
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.1"
 }
