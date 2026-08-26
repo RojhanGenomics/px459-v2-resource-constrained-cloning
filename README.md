@@ -14,8 +14,8 @@ See the complete project-linked [researcher profile](RESEARCHER_PROFILE.md).
 
 - ORCID: https://orcid.org/0009-0009-2427-718X
 - GitHub: https://github.com/RojhanGenomics
-- Website: https://rojhangalaxy.ir
 - LinkedIn: https://linkedin.com/in/mahdieh-rojhannezhad
+- ResearchGate: https://www.researchgate.net/profile/Mahdieh-Rojhannezhad
 
 ## Citation
 
